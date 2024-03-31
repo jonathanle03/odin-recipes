@@ -1,0 +1,30 @@
+img {
+  height: 300px;
+  width: 400px;
+}
+
+h1, h2, ul {
+  font-family: "Times New Roman", serif;
+}
+
+h1, h2 {
+  background-color: #EFF1E4;
+}
+
+p, ul, ol {
+  background-color: #2DBDBD;
+  color: #EFF1E4;
+}
+
+h1 {
+  color: #537C8E;
+  text-align: center;
+}
+
+h2 {
+  color: #2DBDBD;
+}
+
+p, ol {
+  font-family: "Arial", sans-serif;
+}
